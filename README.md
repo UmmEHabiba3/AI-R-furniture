@@ -12,15 +12,16 @@ Main landing page of the application where users can navigate through features a
 
 Secure login interface where users enter their credentials to access the system.
 
-<img width="1919" height="1077" alt="Login Screen" src="https://github.com/user-attachments/assets/d8349dab-c5cc-4dce-a46c-55cb0c61f4fc" />
+<img width="1919" height="1076" alt="Login 2026-04-28 041210" src="https://github.com/user-attachments/assets/d63a9259-bd2d-414b-a386-5e9f90af1ba2" />
+
 
 ---
 
 ### 📝 Signup Screen
 
 New users can register by filling out required details in the signup form.
+<img width="1917" height="1079" alt="Signup 2026-04-28 041304" src="https://github.com/user-attachments/assets/d6c07794-c981-472a-80a2-f5e6196f1c4f" />
 
-<img width="1907" height="1076" alt="Signup Screen" src="https://github.com/user-attachments/assets/da2750ab-fced-4532-9785-20ef1e5c362a" />
 
 ---
 
@@ -28,7 +29,7 @@ New users can register by filling out required details in the signup form.
 
 Displays user profile information and account details.
 
-<img width="1917" height="1077" alt="Profile Screen" src="https://github.com/user-attachments/assets/a957c46c-edd1-4cbd-8e50-14fbf368575f" />
+<img width="1911" height="1029" alt="Profile 2026-04-28 041353" src="https://github.com/user-attachments/assets/9ee1e823-f1c2-4a6d-afab-3e44b93cca29" />
 
 ---
 
@@ -36,7 +37,7 @@ Displays user profile information and account details.
 
 Shows available features or items in the application.
 
-<img width="1919" height="1074" alt="Feature Screen" src="https://github.com/user-attachments/assets/3d3bd4bc-da3d-4681-8931-8a1a9057b6d0" />
+<img width="1919" height="1078" alt="ProductSearch 2026-04-28 041532" src="https://github.com/user-attachments/assets/682c2cf5-8381-4d06-a45b-fe27aa27e8c9" />
 
 ---
 
@@ -44,15 +45,16 @@ Shows available features or items in the application.
 
 Displays detailed view of selected item or data.
 
-<img width="1919" height="1060" alt="Details Screen" src="https://github.com/user-attachments/assets/7418232c-9a63-4839-9eb1-83fbe9e8f0bc" />
-
+<img width="1919" height="1060" alt="Detail 2026-04-28 041704" src="https://github.com/user-attachments/assets/d86959d0-2c5b-4948-8069-10c90d8b2da3" />
 ---
 
 ### ⚙️ Settings Screen
 
 Users can manage preferences and application settings.
 
-<img width="1919" height="1035" alt="Settings Screen" src="https://github.com/user-attachments/assets/3e41a35a-4e69-4f44-a55e-1d39b7f71f5c" />
+
+<img width="1907" height="1076" alt="Setting 2026-04-28 042212" src="https://github.com/user-attachments/assets/75942f84-28dc-4560-bc12-a0e396f81879" />
+
 
 ---
 
@@ -60,7 +62,7 @@ Users can manage preferences and application settings.
 
 Shows selected items or saved data by the user.
 
-<img width="1919" height="1078" alt="Cart Screen" src="https://github.com/user-attachments/assets/1210de70-ebde-4f4c-a223-c2368b6ebc84" />
+<img width="1919" height="1074" alt="CartScreen 2026-04-28 041718" src="https://github.com/user-attachments/assets/e9eeb16c-034f-4653-ba1f-fe66aa72a422" />
 
 ---
 
@@ -68,15 +70,10 @@ Shows selected items or saved data by the user.
 
 Allows users to search content within the application.
 
-<img width="1911" height="1029" alt="Search Screen" src="https://github.com/user-attachments/assets/e089a8d4-87d6-4850-8fe7-faa2f92a1c45" />
+<img width="1904" height="892" alt="Serach 2026-04-28 034457" src="https://github.com/user-attachments/assets/24888cb9-6388-4184-8af1-cb1ed33479da" />
+
 
 ---
-
-### 📊 Analytics / Info Screen
-
-Shows insights, statistics, or summary data.
-
-<img width="1917" height="1079" alt="Analytics Screen" src="https://github.com/user-attachments/assets/b04375d6-a673-4542-a418-f93a86f2ae38" />
 
 ---
 
@@ -84,4 +81,5 @@ Shows insights, statistics, or summary data.
 
 Secure logout functionality for user session termination.
 
-<img width="1919" height="1076" alt="Logout Screen" src="https://github.com/user-attachments/assets/5ec2b088-2112-405c-be17-f689d88114f1" />
+<img width="1907" height="1076" alt="Logout 2026-04-28 042212" src="https://github.com/user-attachments/assets/2a3ddb09-8bc0-40c8-a8af-15ca5943a6eb" />
+
