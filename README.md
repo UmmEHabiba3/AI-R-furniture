@@ -54,18 +54,7 @@ Shows selected items or saved data by the user.
 
 <img width="1919" height="1074" alt="CartScreen 2026-04-28 041718" src="https://github.com/user-attachments/assets/e9eeb16c-034f-4653-ba1f-fe66aa72a422" />
 
----
-
-### 🔍 Search Screen
-
-Allows users to search content within the application.
-
-<img width="1904" height="892" alt="Serach 2026-04-28 034457" src="https://github.com/user-attachments/assets/24888cb9-6388-4184-8af1-cb1ed33479da" />
-
-
----
-
----
+--
 
 ### 🚪 Logout Screen
 
