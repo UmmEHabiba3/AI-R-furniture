@@ -48,16 +48,6 @@ Displays detailed view of selected item or data.
 <img width="1919" height="1060" alt="Detail 2026-04-28 041704" src="https://github.com/user-attachments/assets/d86959d0-2c5b-4948-8069-10c90d8b2da3" />
 ---
 
-### ⚙️ Settings Screen
-
-Users can manage preferences and application settings.
-
-
-<img width="1907" height="1076" alt="Setting 2026-04-28 042212" src="https://github.com/user-attachments/assets/75942f84-28dc-4560-bc12-a0e396f81879" />
-
-
----
-
 ### 📦 Cart Screen
 
 Shows selected items or saved data by the user.
